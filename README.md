@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[😭❤️]</title>
+    <title>[❤️💋💋💋💋💋💋💋💋]</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -162,6 +162,29 @@
 </head>
 <body>
 
-<p class="special-text">"You're not just a year older, you're a year more fabulous! Happy Birthday, my dear friend i love you you you you 💋💋💋💋💋💋💋!"</p>
+<p class="special-text">"In realms where tales and whispers blend,
+Resides my friend, so charismatic, so grand,
+With charm that dances on the wind,
+A beacon of light in life's shifting sand.
+
+In every word, a melody flows,
+Each step adorned with grace untold,
+A magnet to hearts, where admiration grows,
+In realms of silver and in fields of gold.
+
+Like a painting, vibrant and alive,
+Each hue a facet of their soul,
+In their presence, spirits thrive,
+As through the night, stars console.
+
+Oh, how fortunate to call them friend,
+In every moment, a treasure to behold,
+In their company, hearts transcend,
+In the story of life, their legend's told.  
+
+
+
+
+You're not just a year older, you're a year more fabulous! Happy Birthday, my dear friend i love you you you you 💋💋💋💋💋💋💋!"</p>
 </body>
 </html>
